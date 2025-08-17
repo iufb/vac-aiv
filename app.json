@@ -1,15 +1,20 @@
 {
     "expo": {
-        "name": "vac-aiv",
+        "name": "Вакцинация в Казахстане",
         "slug": "vac-aiv",
         "version": "1.0.0",
         "orientation": "portrait",
-        "icon": "./assets/images/icon.png",
         "scheme": "vacaiv",
         "userInterfaceStyle": "automatic",
         "newArchEnabled": true,
         "ios": {
-            "supportsTablet": true
+            "supportsTablet": true,
+            "bundleIdentifier": "com.vacv4.vacaiv",
+            "icon": {
+                "dark": "./assets/images/ios-dark.png",
+                "light": "./assets/images/ios-light.png",
+                "tinted": "./assets/images/ios-tinted.png"
+            }
         },
         "android": {
             "adaptiveIcon": {
@@ -48,8 +53,7 @@
                     "resizeMode": "contain",
                     "backgroundColor": "#ffffff"
                 }
-            ],
-            "expo-build-properties"
+            ]
         ],
         "experiments": {
             "typedRoutes": true

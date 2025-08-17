@@ -1,39 +1,25 @@
 import { BottomTabBarProps } from "@react-navigation/bottom-tabs";
 import { Link, LinkProps, usePathname } from "expo-router";
-import { ReactNode, useEffect, useRef, useState } from "react";
-import { StyleSheet, Text, View } from "react-native";
-import Animated, { Easing, useAnimatedProps, useSharedValue, withTiming } from "react-native-reanimated";
-import Svg, { Path } from "react-native-svg";
-const AnimatedHomeIconPath = Animated.createAnimatedComponent(Path)
-const HomeIcon = () => {
-    const progress = useSharedValue(0)
-    useEffect(() => {
-        progress.value = withTiming(1, { duration: 2000, easing: Easing.linear })
-    }, [])
-    const [length, setLength] = useState(0)
-    const ref = useRef<Path>(null)
-    const animatedProps = useAnimatedProps(() => ({
-        strokeDashoffset: length - length * progress.value
-    }))
-    const path = 'm2.25 12 8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25'
-    return <Svg width={24} height={24} viewBox={[0, 0, 24, 24].join(" ")}>
-        <AnimatedHomeIconPath animatedProps={animatedProps} ref={ref} onLayout={() => setLength(ref.current!.getTotalLength() ?? 0)} d={path} stroke={'black'} strokeWidth={2} strokeDasharray={length || undefined} />
-    </Svg>
-}
-const tabs: { label: string, href: LinkProps['href'], icon: ReactNode }[] = [
+import { ReactElement, ReactNode, useEffect } from "react";
+import { StyleSheet, View } from "react-native";
+import Animated, { interpolateColor, useAnimatedStyle, useSharedValue, withTiming } from "react-native-reanimated";
+import { tabColors } from "~/components/consts/colors";
+import { BookIcon, HomeIcon, SettingsIcon } from "~/components/icons";
+
+
+const tabs: { label: string, href: LinkProps['href'], icon: (color: string) => ReactElement }[] = [
     {
         label: "Home",
         href: "/",
-        icon: <HomeIcon />
+        icon: (color) => <HomeIcon color={color} width={24} height={24} />
     },
     {
-
-
         label: "Explore",
 
         href: "/explore",
 
-        icon: <HomeIcon />
+        icon: (color) => <BookIcon color={color} width={24} height={24} />
+
     },
     {
 
@@ -41,7 +27,7 @@ const tabs: { label: string, href: LinkProps['href'], icon: ReactNode }[] = [
 
         href: "/settings",
 
-        icon: <HomeIcon />
+        icon: (color) => <SettingsIcon color={color} width={24} height={24} />
     }
 
 
@@ -57,7 +43,7 @@ export const Tabbar = ({ ...props }: TabbarProps) => {
 
     return (
         <View style={[styles.container, { paddingBottom: insets.bottom }]}>
-            <HomeIcon />
+
 
             {tabs.map(t => <Tablink t={t} key={t.href.toString()} />)}
         </View>
@@ -67,13 +53,39 @@ export const Tabbar = ({ ...props }: TabbarProps) => {
 interface TablinkProps {
     t: typeof tabs[0]
 }
-const Tablink = ({ t }: TablinkProps) => {
-    const pathname = usePathname()
-    const progress = useSharedValue(0)
-    return <Link style={[styles.link, isRouteActive(pathname, t.href.toString()) && { backgroundColor: 'red' }]} href={t.href} key={t.label}>
-        <Text>{t.label}</Text>
-    </Link>
+
+interface TabIconProps {
+    icon: ReactNode,
+    isActive: boolean
 }
+
+
+const Tablink = ({ t }: TablinkProps) => {
+    const progress = useSharedValue(0)
+    const pathname = usePathname();
+    const isActive = isRouteActive(pathname, t.href.toString());
+    useEffect(() => {
+        progress.value = withTiming(isActive ? 1 : 0, { duration: 250 });
+    }, [isActive]);
+    const st = useAnimatedStyle(() => ({
+        transform: [
+            {
+                scale: withTiming(isActive ? 1.1 : 1, { duration: 300 })
+
+            }
+        ],
+        backgroundColor: interpolateColor(progress.value, [1, 0], [tabColors.active.bg, tabColors.inactive.bg]),
+    }))
+
+
+    return (
+        <Link href={t.href} key={t.label}>
+            <Animated.View style={[styles.link, st]}>
+                {t.icon(isActive ? tabColors.active.fg : tabColors.inactive.fg)}
+            </Animated.View>
+        </Link>
+    );
+};
 const styles = StyleSheet.create({
     container: {
         paddingTop: 20,
@@ -81,8 +93,9 @@ const styles = StyleSheet.create({
         justifyContent: 'space-evenly'
     },
     link: {
-
-
+        paddingVertical: 3,
+        paddingHorizontal: 6,
+        borderRadius: 10
     }
 
 

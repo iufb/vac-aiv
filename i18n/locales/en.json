@@ -1,0 +1,910 @@
+{
+    "home": {
+        "title": "Vaccination in Kazakhstan",
+        "subtitle": "Useful information – simple and clear",
+        "links": {
+            "1": "Introduction",
+            "2": "Definitions",
+            "3": "List of abbreviations",
+            "4": "About the app"
+        },
+        "content": {
+            "1": {
+                "title": "Introduction",
+                "info": "<container><zero>\t\tVaccines are one of the greatest achievements in global health and development. For over two centuries, they have safely reduced the incidence of diseases such as polio, measles, and smallpox, helping children grow up happy and healthy. Currently, there are vaccines in the world to prevent more than 20 life-threatening diseases, helping people of all ages to live longer and healthier. Immunization currently prevents 3.5-5 million deaths annually from diseases such as diphtheria, tetanus, whooping cough, influenza, and measles [1]. Vaccination is a key component of primary health care (PHC) and an indisputable human right. This is also one of the best investments in healthcare that money can buy. Vaccines are also crucial for preventing and combating outbreaks of infectious diseases. They form the basis of global health security and will become a crucial tool in the fight against antimicrobial resistance [2].</zero><zero>\t\tThanks to global immunization efforts, children worldwide can walk, play, dance, and learn. Vaccinated children perform better in school, and the economic benefits extend to all their communities. Today, vaccines are estimated to be one of the most cost-effective means of improving national prosperity [3]. The COVID-19 pandemic, its associated disruptions, and COVID-19 vaccination efforts have strained healthcare systems in 2020 and 2021, leading to significant disruptions in vaccination. However, from a global perspective, recovery is on the horizon - in 2022, the coverage of diphtheria, pertussis, and tetanus (DPT) immunization, although uneven across countries, has nearly returned to 2019 levels [4].</zero><zero>\t\tIn Kazakhstan, vaccination is regulated by the Resolution of the Government of the Republic of Kazakhstan No.612 dated September 24, 2020, “On approval of the list of diseases for mandatory preventive vaccinations within the guaranteed volume of medical care, the rules, terms, and the population groups subject to preventive vaccinations”, by the Order of the Minister of Health of the Republic of Kazakhstan dated October 21, 2020 No. KR DSM-146/2020 “List of medical contraindications to preventive vaccinations”, by the Order of the Acting Minister of Health of the Republic of Kazakhstan dated September 21, 2023 No. 150 “On the approval of Sanitary rules “Sanitary and epidemiological requirements for the organization and conduct of preventive vaccinations to the population”, by the Order of the Minister of Health of the Republic of Kazakhstan dated December 2, 2022 No. KR DSM-151 “On the approval of Sanitary Rules “Sanitary and epidemiological requirements for the organization and conduct of sanitary and anti-epidemic, sanitary and preventive measures to prevent infections associated with the provision of medical care”, by the Order of the Minister of Health of the Republic of Kazakhstan dated October 21, 2020 No. KR DSM-146/2020 “List of medical contraindications to preventive vaccinations”, by the Order of the Minister of Health of the Republic of Kazakhstan dated November 30, 2020 No. KR DSM-214/2020 “On the approval of the rules for the prevention of tuberculosis”, and by the Resolution of the Government of the Republic of Kazakhstan from February 20, 2024 No. 102 “On Amendments to the Resolution of the Government of the Republic of Kazakhstan from September 24, 2020 No. 612 “On approval of the list of diseases against which mandatory preventive vaccinations are conducted within the guaranteed scope of medical care, rules, timing of their conduct and population groups subject to preventive vaccinations.”</zero><zero>\t\tI. Mandatory preventive vaccinations (administration of vaccines) against the following infectious diseases are carried out at the expense of the republican budget after obtaining the informed consent of the vaccinated person for vaccination:</zero><one>1) Routine preventive immunizations:</one><one>Disease caused by human papillomavirus;</one><one>2) Prophylactic vaccinations for epidemiologic indications:</one><one>Coronavirus infection.</one><zero>\t\tII. Mandatory preventive vaccinations (administration of vaccines and other immunobiological preparations) against the following infectious and parasitic diseases are carried out at the expense of local budgets after obtaining the informed consent of the vaccinated person for vaccination:</zero><one>1) Routine preventive immunizations:</one><two>Viral hepatitis 'A';</two><two>Viral hepatitis 'B';</two><two>Haemophilus influenzae type b;</two><two>Diphtheria;</two><two>Whooping cough;</two><two>Measles;</two><two>Rubella;</two><two>Pneumococcal infection;</two><two>Polio;</two><two>Tetanus;</two><two>Tuberculosis;</two><two>Epidemic mumps;</two><one>2) Prophylactic vaccinations for epidemiologic indications:</one><two>Viral hepatitis 'A';</two><two>Viral hepatitis 'B';</two><two>Diphtheria;</two><two>Spring and summer tick-borne encephalitis;</two><two>Antrax;</two><two>Rabies;</two><two>Measles;</two><two>Rubella;</two><two>Plague;</two><two>Tetanus;</two><two>Tularemia;</two><two>Influenza;</two><two>Typhoid fever;</two><two>Epidemic mumps.</two></container>"
+            },
+            "2": {
+                "title": "Definitions",
+                "info": "<p>\t\t<r>Anatoxins</r> – immunobiological medicinal preparations derived from toxins or produced using recombinant technology. They lack pronounced toxic properties and are capable of inducing the production of antibodies against the original toxin.; \n\t\t<r>Vaccines</r> – medicinal preparations used for the specific prevention of infectious diseases, exerting their prophylactic effect through the immune system. \n\t\t<r>Live vaccines</r> – vaccines prepared from live attenuated microorganisms. \n\t\t<r>Immunoglobulins</r> – immunobiological medicinal preparations made from human and animal blood serum, as well as monoclonal antibodies, used for emergency prophylaxis and treatment of infectious diseases. \n\t\t<r>Immunological medicinal product (IMP)</r> – a medicinal product intended for the formation of active or passive immunity or for the diagnosis of the presence of immunity or the diagnosis (production) of a specific acquired change in the immune response to allergens. \n\t\t<r>Inactivated vaccines</r> – vaccines prepared from killed microorganisms or from individual components of microbial cells and products of their vital activity, as well as obtained by other biotechnological methods. \n\t\t<r>Adverse events following immunization (AEFI)</r> – medical incidents that occur after immunization, causing concern to healthcare workers or the public and presumed to be caused by the immunization.</p>"
+            },
+            "3": {
+                "title": "List of abbreviations, symbols",
+                "data": [
+                    {
+                        "key": "APDTV",
+                        "description": "Adsorbed pertussis-diphtheria-tetanus vaccine"
+                    },
+                    {
+                        "key": "HIV",
+                        "description": "Human immunodeficiency virus"
+                    },
+                    {
+                        "key": "SSTBE",
+                        "description": "Spring-summer tick-borne encephalitis"
+                    },
+                    {
+                        "key": "GAFMC",
+                        "description": "Guaranteed amount of free medical care"
+                    },
+                    {
+                        "key": "IV",
+                        "description": "Inactivated vaccine"
+                    },
+                    {
+                        "key": "IMP",
+                        "description": "Immunobiological medicinal product"
+                    },
+                    {
+                        "key": "IPV",
+                        "description": "Inactivated polio vaccine"
+                    },
+                    {
+                        "key": "AEAI",
+                        "description": "Adverse effects after immunization"
+                    },
+                    {
+                        "key": "OLV",
+                        "description": "Oral live vaccine"
+                    },
+                    {
+                        "key": "PHC",
+                        "description": "Primary health care"
+                    },
+                    {
+                        "key": "AIDS",
+                        "description": "Acquired immunodeficiency syndrome"
+                    },
+                    {
+                        "key": "BCG",
+                        "description": "Bacillus Calmette-Guérin"
+                    },
+                    {
+                        "key": "COVID-19",
+                        "description": "COronaVIrus Disease 2019"
+                    },
+                    {
+                        "key": "DTP",
+                        "description": "Diphtheria-tetanus and pertussis"
+                    },
+                    {
+                        "key": "HAV",
+                        "description": "Hepatitis A Virus"
+                    },
+                    {
+                        "key": "Hib",
+                        "description": "Haemophilus influenzae type b"
+                    },
+                    {
+                        "key": "HBsAg",
+                        "description": "Hepatitis B surface antigen"
+                    },
+                    {
+                        "key": "HBV",
+                        "description": "Hepatitis B Virus"
+                    },
+                    {
+                        "key": "MMR",
+                        "description": "Measles, mumps and rubella"
+                    },
+                    {
+                        "key": "MT",
+                        "description": "Mycobacterium tuberculosis"
+                    },
+                    {
+                        "key": "Vi-PS",
+                        "description": "Vi-polysaccharide"
+                    },
+                    {
+                        "key": "SARS-CoV-2",
+                        "description": "Severe acute respiratory syndrome-related coronavirus 2"
+                    }
+                ]
+            }
+        }
+    },
+    "info": {
+        "title": "Information",
+        "links": [
+            {
+                "href": "/info/characteristics",
+                "name": "The main characteristics of vaccines"
+            },
+            {
+                "href": "/info/rules",
+                "name": "Rules for mandatory preventive vaccinations"
+            },
+            {
+                "href": "/info/groups",
+                "name": "Population groups subject to preventive vaccinations"
+            },
+            {
+                "href": "/info/vac",
+                "name": "Vaccination of individuals with missed preventive vaccinations and catch-up vaccination"
+            },
+            {
+                "href": "/info/contraindications",
+                "name": "Medical contraindications to preventive vaccinations"
+            },
+            {
+                "href": "/info/time",
+                "name": "Vaccination calendar"
+            },
+            {
+                "href": "/info/test",
+                "name": "MCQ"
+            },
+            {
+                "href": "/info/about",
+                "name": "About"
+            }
+        ],
+        "characteristics": {
+            "title": "Deseases",
+            "links": [
+                "Hepatitis B",
+                "Haemophilus influenzae type b",
+                "Diphtheria",
+                "Pertussis",
+                "Measles",
+                "Rubella",
+                "Pneumococcal infection",
+                "Polio",
+                "Tetanus",
+                "Tuberculosis",
+                "Mumps",
+                "Rabies",
+                "Typhoid",
+                "Spring-summer tick-borne encephalitis",
+                "Plague",
+                "COVID-19",
+                "Hepatitis A",
+                "Flu",
+                "Anthrax",
+                "Tularemia",
+                "Human papillomavirus"
+            ],
+            "desease": {
+                "Human papillomavirus": "<container><zero>Vaccines against human papillomavirus (HPV) are a group of biological drugs designed to prevent diseases caused by individual strains of human papillomavirus[1]. Available HPV vaccines protect against two, four, or nine types of HPV[1][2]. All HPV vaccines protect against at least HPV types 16 and 18, which are associated with the highest risk of cervical cancer[1]. It is estimated that HPV vaccines can prevent 70% of cervical cancer, 80% of rectal cancer, 60% of vaginal cancer, 40% of vulvar cancer and more than 90% of cases of HPV-positive oropharyngeal cancer[3][4][5][6]. In addition, tetravalent vaccines that protect against HPV-6 and HPV-11 types prevent the appearance of certain genital warts[1]. The World Health Organization (WHO) recommends HPV vaccines as part of routine vaccination in all countries, along with other preventive measures[1]. Vaccines are administered in two or three doses, depending on the age and immune status of the person[1]. As a rule, vaccination of girls aged nine to thirteen years is recommended[1]. Vaccines provide protection from 5 to 10 years[1]. Screening for cervical cancer is still required after vaccination[1]. Vaccination of a large part of the population also benefits the unvaccinated due to collective immunity[7]. HPV papillomavirus (HPV - Human papillomavirus) Human papillomavirus (HPV - Human Papillomavirus) is actually a group of viruses that includes more than 100 species. Papilloma virus is one of the most common viruses in the world, and is the main cause of cervical cancer in women. The human papillomavirus of high oncogenic risk is the main etiological factor in the development of cervical cancer. In 97%, cervical cancer is associated with this virus. Chronic viral transmission can, under certain conditions, lead to the development of cervical cancer.</zero></container>",
+                "Hepatitis B": "<container><zero>\t\tHepatitis B is a potentially life-threatening infectious liver disease caused by the hepatitis B virus (HBV).</zero><zero>\t\tHepatitis B is most commonly transmitted either from mother to child during childbirth (perinatal transmission) or through horizontal transmission within the family circle (contact with infected blood), especially among children under five years of age [5].</zero><zero>\t\tHepatitis B is also transmitted through needle sticks, tattooing, piercing, and contact with infected blood and body fluids, including saliva, menstrual and vaginal secretions, and semen.</zero><zero>\t\tIn most cases, the primary infection is asymptomatic. However, some patients develop acute conditions with pronounced symptoms that persist for several weeks: jaundice, darkening of urine, severe weakness, nausea, vomiting, and abdominal pain [6].</zero><zero>\t\tTo prevent perinatal transmission from a mother who tests positive for hepatitis B virus, vaccination against HBV in infants is administered within the first twelve hours of life, when the benefits of vaccination outweigh the risks. The vaccine against viral hepatitis B is an effective means of preventing this disease. Hepatitis B is caused by the hepatitis B virus (HBV), which attacks the liver and can lead to chronic infection, liver cirrhosis, and liver cancer. The vaccine is typically administered in several doses, which helps to establish durable immunity against the virus. The vaccine typically contains parts of the surface antigen of the hepatitis B virus (HBsAg), which promotes the formation of an immune response. It does not contain live virus and cannot cause disease.</zero><zero>\t\tThe vaccine is typically administered in several doses to ensure sufficient immune protection. The dosing schedule may vary depending on age and risk of infection. Vaccination against hepatitis B is recommended in early childhood and for adults, especially those at increased risk of infection, such as healthcare personnel, individuals with altered liver function, sexual partners of infected individuals, injection drug users, people with multiple sexual partners, and others.</zero></container>",
+                "Haemophilus influenzae type b": "<container><zero>\t\tHaemophilus influenzae type b (Hib) is a bacterium responsible for severe pneumonia, meningitis, and other invasive diseases almost exclusively in children under 5 years of age. It is transmitted through respiratory routes from an infected person to a susceptible person [7]. It is difficult to establish the duration of the incubation period because this infection manifests through other diseases. It most commonly affects the respiratory system, causing respiratory organ diseases such as tracheitis, sinusitis, and bronchitis.</zero><zero>\t\tIn childhood, Haemophilus infection often presents with upper respiratory tract and nervous system involvement, while in adults, pneumonia caused by Haemophilus influenzae is more common [8].</zero><zero>\t\tThe vaccine against Haemophilus influenzae type b (Hib) is intended to prevent infections caused by the Haemophilus influenzae type b bacterium. This bacterium can lead to various serious diseases in children, such as meningitis, pneumonia, sepsis, and other infections.</zero><zero>\t\tThe aim of Hib vaccination is to protect children from serious diseases caused by Hib type b, especially in the first years of their life when the risk of complications is highest.</zero><zero>\t\tThe vaccine contains parts of the Hib bacterium, stimulating the immune system to produce antibodies against it. Sometimes the Hib vaccine is combined with other vaccines, such as those against diphtheria, pertussis, tetanus, and others, to simplify the vaccination process.</zero></container>",
+                "Diphtheria": "<container><zero>\t\tDiphtheria is an infectious disease caused by the bacterium Corynebacterium diphtheriae, which primarily affects the throat and upper respiratory tract and produces a toxin that can damage other organs. The disease is transmitted through direct physical contact or by breathing, coughing, or sneezing of infected individuals. After infection, the bacterium spreads within the human body for 5-7 days. Symptoms typically appear in 2-3 weeks after infection: sore throat, low-grade fever, swelling of the neck lymph nodes, and gray or white membrane-like coating on the tonsils with a high temperature [9].</zero><zero>\t\tThe diphtheria vaccine is one of the components of combined vaccines used to prevent diphtheria. Diphtheria is caused by the bacterium Corynebacterium diphtheriae and is a serious infectious disease that can affect the throat, nose, and skin, and can also lead to toxic complications such as heart and nervous system damage.</zero><zero>\t\tThe vaccine contains inactivated toxin from the bacterium Corynebacterium diphtheriae or its components, which stimulate the immune system. The diphtheria vaccine is often combined with vaccines against pertussis and tetanus (DTP, DTaP), and sometimes with vaccines against polio and Haemophilus influenzae type b (DTP-Hib-IPV). Vaccinations typically begin in early childhood. The schedule may include series of doses followed by booster shots throughout life.</zero><zero>\t\tThe diphtheria vaccine is an effective means of preventing this disease. Regular revaccination or booster doses may be recommended to maintain immunity.</zero></container>",
+                "Pertussis": "<container><zero>\t\tWhooping cough is an extremely contagious respiratory tract disease caused by the bacterium Bordetella pertussis, which lives in the mouth, nose, and larynx. The disease is most dangerous for infants and spreads easily from person to person, mainly by airborne droplets when coughing or sneezing. The first symptoms appear in 7-10 days after infection: fever, runny nose, and cough. Often, a regular cough then develops into a paroxysmal and spasmodic cough. Patients who have not undergone treatment can be contagious for up to three weeks or more after the onset of coughing [10].</zero><zero>\t\tThe pertussis vaccine is typically included in combined vaccines such as DTP (diphtheria, tetanus, pertussis) or DTaP (diphtheria, tetanus, acellular pertussis). Pertussis (whooping cough) is caused by the bacterium Bordetella pertussis and is a respiratory tract infectious disease, particularly severe in infants and young children.</zero><zero>\t\tThe vaccine contains components of B. pertussis that can be targeted by the immune response. Modern vaccines often use acellular components of the bacterium, making them less reactogenic and reducing the likelihood of side effects [11].</zero><zero>\t\tTypically, the pertussis vaccine is combined with vaccines against diphtheria and tetanus, creating DTP or DTaP. These combined vaccines often also include components against other infections, such as Haemophilus influenzae type b.</zero><zero>\t\tVaccination against pertussis begins in early childhood. Children typically receive series of vaccinations during the first few years of life. Pertussis vaccination has proven effective in reducing the severity and spread of the disease.</zero><zero>\t\tRevaccination or booster doses may be recommended at an older age to maintain immunity. Pertussis vaccination is an important part of immunization programs as it helps prevent serious complications in both children and adults.</zero></container>",
+                "Measles": "<container><zero>\t\tMeasles is an extremely contagious viral infection. Measles is transmitted through airborne droplets and can persist in the air and on surfaces for several hours. The first symptoms appear in 8-12 days after infection: high fever up to 40.50°C, runny nose, red eyes, and the appearance of tiny white spots on the mouth's mucous membranes. After several days, the rash spreads to the face and upper neck, and then gradually moves downward [12].</zero><zero>\t\tThe measles vaccine is included in combined vaccines, such as MMR (measles, mumps, rubella) or MMRV (measles, mumps, rubella, and varicella). Measles is a highly contagious viral disease caused by the measles virus. Measles vaccination is an important part of global programs to prevent the spread of this virus.</zero><zero>\t\tThe vaccine contains weakened or inactivated measles virus. In the case of MMR, it also includes components of vaccines against mumps and rubella. Combined vaccines, such as MMR or MMRV, allow simultaneous vaccination against multiple infections, making the vaccination process more convenient [13].</zero><zero>\t\tUsually, the first dose of the measles vaccine is administered at the age of 1 year, and the second dose is given at the age of 4-6 years. The schedule may vary depending on the country and health authorities' recommendations.</zero><zero>\t\tVaccination against measles has proven effective in preventing the disease and its complications. Additional doses of the measles vaccine may be recommended in cases of increased risk of infection or during an epidemic. Measles vaccination is an important measure for infection control and contributes to the creation of herd immunity in society.</zero></container>",
+                "Rubella": "<container><zero>\t\tRubella is an acute and contagious viral infection, particularly dangerous for pregnant women and infants. The rubella virus is transmitted through the air by sneezing or coughing of an infected person. After infection, the virus spreads in the human body for 5-7 days. Symptoms usually appear in 2-3 weeks after infection: temperature of 37-39°C, rash, vomiting, mild conjunctivitis, swollen lymph nodes behind the ears and on the neck [14].</zero><zero>\t\tInfected adults, more often women, may develop arthritis with joint pain, which lasts from 3 to 10 days. Vaccination against rubella is usually done as part of combination vaccines such as MMR (measles, mumps, and rubella) or MMRV (measles, mumps, rubella, and varicella). Rubella is caused by the rubella virus and is an infection that can have serious consequences, especially if a woman becomes infected during pregnancy [15].</zero><zero>\t\tThe vaccine contains weakened or inactivated rubella virus. In the case of combined MMR vaccines, it also includes components against measles and mumps. Combined vaccines provide simultaneous protection against multiple infections, making vaccination more convenient and effective.</zero><zero>\t\tTypically, the first dose of the rubella vaccine is administered at the age of 1 year, and the second dose is given at the age of 4-6 years. The schedule may vary depending on the country and recommendations of health authorities.</zero><zero>\t\tThe rubella vaccine has demonstrated its effectiveness in preventing the disease and reducing the risk of complications. In some cases, such as increased risk of infection or during an epidemic, additional doses of the rubella vaccine may be recommended. Rubella vaccination is important for preventing the spread of the infection and protecting vulnerable groups, such as pregnant women.</zero></container>",
+                "Pneumococcal infection": "<container><zero>\t\tPneumococcal infections are a group of diseases characterized by purulent-inflammatory changes in the lungs (pneumonia), in the central nervous system (purulent meningitis), in the heart (endocarditis), joints (osteomyelitis, purulent arthritis), and others. Middle ear infections, sinusitis, and bronchitis are less severe manifestations of pneumococcal infection, but their frequency is significantly higher. The frequency and severity of pneumococcal infection are highest in the presence of predisposing factors such as immune deficiency, severe forms of anemia, splenectomy, HIV infection, etc. The causative agents of the infection are pneumococci. The source of infection is always a sick person or a carrier of pneumococcus. Pneumococci are common inhabitants of the upper respiratory tract of humans, i.e., they are conditionally pathogenic microorganisms [16].</zero><zero>\t\tVaccination against pneumococcal infection is aimed at preventing diseases caused by the bacterium Streptococcus pneumoniae, such as pneumonia, meningitis, bacteremia, and other infections. There are several types of vaccines targeting different strains of this bacterium, and their use depends on the age group and the risk of infection.</zero><zero>\t\tThere are two main types of vaccines: conjugate and polysaccharide. Conjugate vaccines are usually recommended for children, while polysaccharide vaccines are for adults and older children. Conjugate vaccines, such as Prevnar 13 (PCV13), are typically included in vaccination programs for infants and children. They prevent several types of pneumococcal infections and help prevent severe forms of the disease.</zero><zero>\t\tIn adults, a polysaccharide vaccine, such as Pneumovax 23 (PPSV23), may be used, which provides protection against a greater number of pneumococcal types. For certain risk groups or in specific medical conditions, a conjugate vaccine is also recommended.</zero><zero>\t\tVaccination schedules may vary depending on age, health, and risk of infection. Typically, children are recommended to receive several doses of conjugate vaccine, while adults may receive one or more doses of polysaccharide vaccine. For certain risk groups or specific conditions, revaccination may be required.</zero><zero>\t\tEffective vaccination against pneumococcal infection is important for preventing serious complications and reducing the spread of the bacteria in the community.</zero></container>",
+                "Polio": "<container><zero>\t\tPoliomyelitis is a highly contagious viral disease. The poliovirus affects the human nervous system and can cause complete paralysis within hours. The virus is transmitted from person to person most commonly through the fecal-oral route or, in rarer cases, through a contaminated environment (such as contaminated water or food) and replicates in the intestine. The initial symptoms include fever, fatigue, headache, vomiting, neck stiffness, and limb pain. About one in 200 infected individuals develops irreversible paralysis, typically in the lower limbs. In 5-10% of cases, paralysis of the respiratory muscles can lead to death. [17].</zero><zero>\t\tVaccination against poliomyelitis is intended to prevent this viral disease caused by the poliovirus. Poliomyelitis, or infantile paralysis, can lead to severe complications such as paralysis and central nervous system damage.</zero><zero>\t\tThere are two main types of vaccines against poliomyelitis (infantile paralysis): oral live vaccine (OPV) and inactivated vaccine (IPV). Oral live vaccine (OPV): Sabin Vaccine. The live poliovirus is used in the vaccine. Provides a high level of protection. It is often used in polio eradication programs in developing countries because it is cost-effective and contributes to “herd immunity”.</zero><zero>\t\tInactivated vaccine (IPV): Salk Vaccine (inactivated poliomyelitis vaccine). The vaccine contains the poliovirus that has been killed by chemical or physical methods. It is recommended for use in countries where the risk of vaccine-associated poliomyelitis is low. It is used in many countries where poliomyelitis is nearly eradicated, and it is administered as a dose into the muscles [18].</zero><zero>\t\tVaccination begins in early childhood, usually including three doses of primary vaccination, followed by additional doses to boost immunity. The primary course of poliomyelitis vaccination is administered three times using inactivated poliovirus vaccine (IPV) as part of combination vaccines.</zero><zero>\t\tChildren under 7 years of age receive a triple primary course of poliomyelitis vaccination using IPV. As a preventive measure against the development of vaccine-associated paralytic poliomyelitis, OPV (oral poliovirus vaccine) is not administered to children who have not received IPV. In organized groups, unvaccinated children are separated from those who have received OPV for a period of at least 30 calendar days from the day of vaccination. The schedule may vary in different countries depending on vaccination strategies. Usually, the first doses are administered at 2, 4, and 6 months of age, with subsequent doses for reinforcement.</zero><zero>\t\tVaccines against poliomyelitis are usually effective in preventing the disease and the spread of the virus. There is a global initiative to eradicate poliomyelitis, and vaccination has significantly reduced the number of cases worldwide. The level of poliomyelitis vaccination is important for creating herd immunity and preventing outbreaks of the disease.</zero></container>",
+                "Tetanus": "<container><zero>\t\tTetanus is an acute infectious disease caused by the spores of the bacterium Clostridium tetani. The incubation period of tetanus is from 3 to 21 days after infection. In most cases, the disease develops within 14 days. Symptoms may include: jaw stiffness or inability to open the mouth; sudden painful muscle spasms, often triggered by loud noises; difficulty swallowing; seizures; headache; high temperature and sweating; changes in blood pressure and rapid heartbeat [19].</zero><zero>\t\tVaccination against tetanus is intended to protect against the bacterium Clostridium tetani, which produces a toxin capable of causing severe infectious disease. Tetanus can occur when the bacterium enters the body through cuts, wounds, bites, and other skin injuries.</zero><zero>\t\tThe vaccine contains tetanus toxoid, which is an inactivated toxin incapable of causing disease but promotes the formation of immunity. The tetanus vaccine is usually a combination vaccine that also protects against other infections such as diphtheria and pertussis. These combination vaccines include DTP (diphtheria, tetanus, pertussis), DTaP (diphtheria, tetanus, acellular pertussis), and Tdap (diphtheria, tetanus, acellular pertussis for adults) [20].</zero><zero>\t\tVaccination schedules may vary between countries and depend on age and previous vaccinations. In childhood, DTP or DTaP is often used, while adults are usually recommended for periodic revaccination with Td or Tdap. Periodic revaccination against tetanus is recommended every 10 years. In the case of an injury, especially if it is dirty or deep, an additional dose of the vaccine may also be recommended.</zero><zero>\t\tEmergency tetanus prophylaxis is carried out in accordance with the Order of the Minister of Health of the Republic of Kazakhstan dated February 2, 2021 No. QR DSM-13 “On Approval of Sanitary Rules Sanitary and Epidemiological Requirements for the Organization and Conduct of Sanitary and Anti-Epidemic and Sanitary and Preventive Measures for Patients with Infectious Diseases Preventable by Vaccination”.</zero><zero>\t\tVaccines against tetanus are effective in preventing the development of the disease. In the event of a wound, especially if it is dirty or caused by a sharp or contaminated object, a doctor may recommend a tetanus booster, even if less than 10 years have passed since the previous dose. Regular vaccination against tetanus is important for preventing serious complications associated with this infectious disease.</zero></container>",
+                "Tuberculosis": "<container><zero>\t\tTuberculosis is an infectious bacterial disease caused by Mycobacterium tuberculosis, which most often affects the lungs. Tuberculosis is spread from person to person through the air. When coughing, sneezing, or even talking, individuals with active respiratory tuberculosis release tuberculosis bacteria into the air. Infection can occur in humans by inhaling even a small amount of these bacteria. The main symptom of tuberculosis is a cough lasting 2-3 weeks, sometimes with sputum and blood. Other common symptoms include chest pain, weakness, weight loss, fever, and night sweats [21].</zero><zero>\t\tThe vaccine against tuberculosis is called BCG (Bacillus Calmette-Guérin). This vaccine was developed in the early 20th century and is one of the oldest vaccines. The BCG vaccine is not perfect, and its effectiveness may vary depending on the geographical spread of the disease, age at vaccination, and other factors. BCG is a live attenuated vaccine based on a weakened strain of Mycobacterium bovis, a bacterium closely related to Mycobacterium tuberculosis, which causes tuberculosis [22].</zero><zero>\t\tThe BCG vaccination is widely used in some countries with a high burden of tuberculosis but is not part of mandatory vaccination programs in many countries with a low incidence. The decision to administer the BCG vaccine may depend on the recommendations of local health authorities and the prevalence of the disease in the region.</zero><zero>\t\tThe BCG vaccine is administered strictly intradermally at the border of the upper and middle third of the outer surface of the left shoulder, in the volume specified in the instructions accompanying the vaccine.</zero><zero>\t\tContraindications to the prevention of tuberculosis with BCG vaccine:</zero><one>1) congenital immunodeficiency;</one><one>2) generalized infection after BCG vaccination, detected in first-degree relatives;</one><one>3) HIV or acquired immunodeficiency syndrome (AIDS);</one><one>4) prematurity - body weight less than 2000 grams or gestational age less than 33 weeks;</one><one>5) central nervous system lesions - asphyxia and birth injuries with neurological symptoms (moderate and severe);</one><one>6) intrauterine infection (cytomegalovirus, toxoplasmosis, chlamydia, tuberculosis), neonatal sepsis;</one><one>7) hemolytic disease of the newborn (moderate, moderate-severe, and severe forms);</one><one>8) diseases of moderate and severe severity, accompanied by subfebrile temperature and general malaise;</one><one>9) fever.</one><zero>\t\tChildren who have not been vaccinated with BCG vaccine in the perinatal (delivery) center are vaccinated in primary health care facilities: up to two months of age - without Mantoux test, after two months - with a negative result.</zero><zero>\t\tIf the mother is diagnosed with active tuberculosis, regardless of bacterial shedding and drug sensitivity, the newborn is screened for congenital tuberculosis [23].</zero><zero>\t\tIf tuberculosis is excluded in a newborn from a mother with active tuberculosis, confirmed or unknown sensitivity, the newborn is isolated and undergoes preventive treatment (3 months):</zero><one>1) After 3 months of preventive treatment, the Mantoux test is performed, and if the result is negative, BCG vaccination is administered with isolation from the mother for at least 2 months, during the period of immunity development;</one><one>2) In case of a positive Mantoux test result and exclusion of local tuberculosis, preventive treatment continues for up to 6 months.</one><zero>\t\tWhen tuberculosis is excluded in a newborn born to a mother with active tuberculosis and multiple or extensive drug resistance, BCG vaccination is permitted, with the child being isolated for 2 months during the period of immunity development.</zero><zero>\t\tAccording to the Resolution of the Government of RK from February 20, 2024 № 102, revaccination for the prevention of tuberculosis with BCG vaccine is not carried out for children from the age of 6 years (1st grade) [24].</zero><zero>\t\tRevaccination with BCG vaccine for tuberculosis prevention is carried out:</zero><one>1) Healthy, uninfected children with a negative Mantoux test at the age of 6 (1st grade) are vaccinated in schools nationwide in the first month of the school year (September). No other vaccinations are administered at schools during this month;</one><one>2) Individuals with a doubtful reaction undergo a repeat Mantoux test after 3 months, and in case of a negative result, revaccination with the BCG vaccine is performed.</one><zero>\t\tThe interval between the Mantoux test and revaccination with the BCG vaccine should be no less than three days and no more than two weeks.</zero><zero>\t\tThe monitoring of vaccinated children is carried out by district pediatricians, general practitioners in primary care facilities, and schools at 1, 3, 6, and 12 months.</zero><zero>\t\tThe final result of BCG vaccination is evaluated one year after the vaccination based on the size of the scar. Rarely, a depigmented spot may form at the site of BCG vaccination.</zero><zero>\t\tIn case of absence of a local vaccination reaction after vaccination (lack of a scar), children are considered and revaccinated (boostered) after 6 months without a prior Mantoux test, or after 1 year (only once) if the Mantoux test is negative.</zero><zero>\t\tThe local (character and size) and general (peripheral lymph nodes) vaccination reaction to the BCG vaccine is evaluated and recorded in the preventive vaccination card, child's medical record, and child's developmental history.</zero><zero>\t\tNewborns born to HIV-infected mothers, in the absence of clinical signs of HIV infection and other contraindications, are vaccinated with a standard dose of BCG vaccine intradermally once, within the scheduled timeframe.</zero><zero>\t\tNewborns born to HIV-infected mothers who have not been vaccinated according to the schedule are vaccinated within the first 4 weeks of life (the neonatal period) without a prior Mantoux test. After the fourth week of life, the administration of the BCG vaccine to children is not allowed due to the potential development of generalized infection from the BCG vaccine.</zero><zero>\t\tChildren infected with HIV who do not develop post-vaccination signs (scar) do not receive a repeat vaccination (revaccination) with the BCG vaccine.</zero><zero>\t\tIn cases where HIV infection is ruled out by the age of 12 months, and in some cases by 15-18 months, vaccination with the BCG vaccine is administered if the Mantoux test result is negative.</zero><zero>\t\tIf a child is born to an HIV-infected mother but is not infected with HIV, revaccination with the BCG vaccine is carried out at the age of 6 years (1st grade) with a negative Mantoux test result [25].</zero></container>",
+                "Mumps": "<container><zero>\t\tMumps is a viral infection, sometimes called epidemic parotitis or mumps, that primarily affects the salivary glands. It spreads from person to person through direct contact or airborne droplets. Mumps is particularly dangerous for children aged 5 to 9 years. The initial symptoms are usually nonspecific, such as headache, malaise, fever, and swelling of the parotid (salivary) gland.</zero><zero>\t\tThe killed mumps vaccine was licensed in the United States in 1948 and used from 1950 to 1978, providing only short-term immunity with low protective effectiveness. Since then, live attenuated mumps vaccines have been developed in Japan, the former Soviet Union, Switzerland, and the USA. Various strains of the mumps virus are used in vaccine development. All live attenuated mumps vaccines are lyophilized and must be reconstituted before use.</zero><zero>\t\tThe mumps vaccine is usually included in combined vaccines. In particular, the MMR (measles, mumps, rubella) and MMRV (measles, mumps, rubella, varicella) vaccines provide protection against mumps in combination with other infections. The vaccine typically contains live attenuated mumps viruses.</zero><zero>\t\tEpidemic mumps is often included in the composition of combined vaccines MMR or MMRV, designed for simultaneous protection against several infections (measles, mumps, rubella, and in the case of MMRV, chickenpox).</zero><zero>\t\tThe first dose is usually administered in early childhood, typically at 12-15 months of age, with a subsequent booster at 4-6 years of age. The schedule may vary depending on the recommendations of health authorities. Vaccination against epidemic mumps is highly effective in preventing the disease.</zero><zero>\t\tRevaccination may be recommended in cases of low immunity or increased risk of outbreaks. Vaccination against epidemic mumps is an important part of immunization programs, as it helps prevent the spread of infection and provides protection against serious complications associated with this virus.</zero><zero>\t\tAdverse reactions to mumps vaccination are generally rare and mild. Apart from minor swelling and slight pain at the injection site, the most common post-vaccination manifestations are mumps and low-grade fever.</zero></container>",
+                "Rabies": "<container><zero>\t\tRabies is an infectious viral disease that, once clinical symptoms appear, almost always results in death. In nearly 99% of cases, rabies virus transmission to humans occurs from domestic dogs. However, rabies can affect both domestic and wild animals. It is transmitted to humans through bites or scratches, usually via saliva. The incubation period of rabies typically lasts 2-3 months but can vary from 1 week to 1 year depending on factors such as the site of entry of the rabies virus and the viral load [28].</zero><zero>\t\tThe rabies vaccine is designed to prevent the disease caused by the rabies virus. Rabies is a severe viral illness that attacks the central nervous system and often leads to death without treatment. Rabies vaccines typically contain killed or inactivated rabies viruses. There are also vaccines that use viruses modified to be less harmful.</zero><zero>\t\tVaccination against rabies is typically administered for preventive purposes after possible contact with an infected animal, as well as in areas where rabies is prevalent among wildlife.</zero><zero>\t\tThe vaccination schedule may vary depending on the situation. In case of potential exposure (e.g., an animal bite), the vaccine may be administered urgently, followed by a specific schedule.</zero><zero>\t\tRevaccination may be necessary in case of ongoing risk of infection, such as working with infected animals or in areas where rabies is widespread.</zero><zero>\t\tVaccines against rabies can also be used for preventive purposes, for example, in people whose work involves the risk of contact with infected animals. Vaccination against rabies is an effective method of preventing this dangerous disease [29].</zero><zero>\t\tA history of hypersensitivity to the vaccine or any component of the vaccine, acute infectious diseases or exacerbation of chronic diseases, anaphylactic or anaphylactoid reactions to neomycin are absolute contraindications, as the vaccine may contain traces of neomycin.</zero><zero>\t\tRare side effects from the vaccine may include fever, asthenia, pain, induration at the injection site, itching, erythema, headache, dizziness, loss of consciousness, arthralgia, myalgia, abdominal pain, tremor, and nausea.</zero></container>",
+                "Typhoid": "<container><zero>\t\tTyphoid fever is a life-threatening infection caused by the bacterium Salmonella Typhi. It is typically spread through contaminated food or water. Typical early symptoms of typhoid fever include prolonged fever, fatigue, headache, nausea, constipation or diarrhea, and a rash [30].</zero><zero>\t\tThe vaccine against typhoid fever is intended to prevent the disease caused by the bacterium Salmonella Typhi, which is the cause of typhoid. Typhoid is a serious infectious disease transmitted through contaminated water and food. Vaccination against typhoid fever is especially recommended for people traveling to regions with a high risk of the disease [31].</zero><zero>\t\tThere are two types of vaccines: oral live vaccines and injectable vaccines. An example of an oral live vaccine is the Ty21a vaccine, which is taken in capsule form. Oral vaccines may contain weakened or modified forms of the bacterium. An example of an injectable vaccine is the Vi-PS (Vi-polysaccharide) inactivated vaccine. Injectable vaccines may contain polysaccharide components of the bacterium.</zero><zero>\t\tVaccination against typhoid fever is often recommended for people planning to travel to regions with a high risk of typhoid, especially those who will be staying in conditions where hygiene standards may be low.</zero><zero>\t\tThe schedule and number of doses may vary depending on the type of vaccine. Oral vaccines may require several doses administered over a specific period of time. Injectable vaccines may require one or more doses, depending on the specific product.</zero><zero>\t\tIn some cases, revaccination may be required at specific intervals, especially if the risk of infection persists. Vaccination against typhoid fever is an important measure to protect against this dangerous disease, especially when traveling to endemic regions.</zero><zero>\t\tContraindications to vaccination against typhoid fever include hypersensitivity to vaccine components, acute infectious and non-infectious diseases, chronic diseases in the acute stage (remission), and pregnancy.</zero><zero>\t\tRare side effects of the vaccine may include pain, redness, or swelling at the injection site, fever, headache, and muscle pain.</zero></container>",
+                "Spring-summer tick-borne encephalitis": "<container><zero>\t\tTick-borne encephalitis is a viral disease affecting the nervous system. Natural foci of tick-borne encephalitis are geographic regions, predominantly forested and forest-steppe areas, where ixodid ticks, which are reservoirs and carriers of the tick-borne encephalitis virus, as well as animals - carriers or \"feeders\" of this virus, inhabit in natural conditions. Typical initial symptoms of tick-borne encephalitis include fever, headaches, and joint pain [32].</zero><zero>\t\tThe tick-borne encephalitis vaccine in Kazakhstan is administered based on epidemiological indications. In Kazakhstan, the endemic areas for tick-borne encephalitis are the Almaty, Akmola, and East Kazakhstan regions, as well as the city of Almaty and its surroundings. Therefore, individuals living in natural foci of tick-borne encephalitis undergo preventive immunization against tick-borne encephalitis.</zero><zero>\t\tThere are inactivated vaccines against spring-summer encephalitis. These vaccines contain fragments or the whole virus that has been inactivated, meaning it has lost its ability to cause disease. Vaccination against spring-summer encephalitis is recommended for people living in endemic areas or planning to travel to these regions, especially during the warm months when the tick season is active [33].</zero><zero>\t\tThe schedule typically includes 3 doses over a specific period of time, unless an accelerated schedule is used. Vaccination may require regular revaccination to maintain immunity, especially for those regularly in endemic areas.</zero><zero>\t\tVaccination is best started in advance, several months before the start of the tick season. Vaccination against tick-borne encephalitis is recommended, especially in endemic areas where ticks can be vectors of the virus.</zero><zero>\t\tContraindications to tick-borne encephalitis vaccination include hypersensitivity to the components of the vaccine, acute infectious and non-infectious diseases, chronic diseases in the acute stage (remission), severe allergic reactions in the medical history, bronchial asthma, autoimmune diseases, severe reaction (temperature rise above 40°C; swelling, hyperemia at the injection site more than 8 cm in diameter), or complications from previous vaccination, pregnancy [34].</zero><zero>\t\tRare side effects of the vaccine may include general malaise, slight enlargement of regional lymph nodes, headache, nausea, temperature rise above 37.5°C, redness, swelling, and pain at the injection site.</zero></container>",
+                "Plague": "<container><zero>\t\tPlague is caused by the zoonotic bacterium Yersinia pestis, which is found in the bodies of small mammals and the fleas that infest them. Infection is transmitted among animals by fleas. Human infection can occur as a result of: being bitten by an infected flea - a carrier of the disease; unprotected contact with infected biological fluids or materials; inhaling infected small particles/fine droplets exhaled by a patient with pulmonary plague (via airborne transmission). In a person infected with plague, after an incubation period of 1 to 7 days, an acute febrile condition usually develops. Typical symptoms include: sudden fever, chills, headache, body aches, weakness, nausea, and vomiting [35].</zero><zero>\t\tThe plague vaccine is a vaccine designed to prevent the disease caused by the bacterium Yersinia pestis, which is the causative agent of plague. Plague is an infectious disease that can have a severe form and, if left untreated, can be fatal.</zero><zero>\t\tThere are several types of plague vaccines, including live attenuated, inactivated, and subcutaneous vaccines. Vaccines may contain components of Yersinia pestis, such as proteins and antigens, capable of eliciting an immune response without causing disease [36].</zero><zero>\t\tVaccination against plague may be conducted in areas where the risk of the disease is high or in situations where there is a potential epidemic threat. The vaccination schedule may vary depending on the specific vaccine and recommendations from health authorities. Revaccination may be required based on the specific vaccine and the risk of the disease.</zero><zero>\t\tVaccines against plague can be used in laboratories where there is a risk of possible contact with the plague pathogen, as well as in epidemic risk zones. Vaccination against plague is one of the safety measures to protect against this dangerous disease. Vaccination may be considered in the context of the epidemiological situation and specific risks in different regions [37].</zero><zero>\t\tContraindications to vaccination against plague include acute infectious and non-infectious diseases such as active tuberculosis, active rheumatism, cardiovascular diseases (decompensated and subcompensated heart defects, arterial hypertension of II and III degrees, previous myocardial infarction), peptic ulcer disease of the stomach and duodenum, acute and chronic kidney, liver and gallbladder diseases, endocrine system diseases (severe thyrotoxicosis, diabetes mellitus, adrenal insufficiency), malignant neoplasms, malignant blood and lymphoid system diseases (malignant anemia, leukemias, hemorrhagic diatheses), primary and secondary immunodeficiencies, during treatment with glucocorticosteroids, antimetabolites, radiotherapy, bronchial asthma and other allergic diseases, cases of anaphylactic reaction to previous vaccine administration, anaphylactic reactions to food, drugs, and other allergens, skin diseases during clinical manifestations (eczema, neurodermatitis, furunculosis, widespread pyogenic skin diseases), severe forms of rickets and hypotrophy (II and III degrees), pronounced infantilism, diseases of the nervous system, cranial and cerebral injuries with residual effects, epilepsy with frequent seizures, decompensated and subcompensated hydrocephalus, age under 6 months, pregnancy, and lactation.</zero><zero>\t\tSide effects of the vaccine may include hyperemia, swelling, small vesicular rash along the incisions, infiltration at the injection site, and body temperature elevation up to 37.5°C within the first few days.</zero></container>",
+                "COVID-19": "<container><zero>\t\tCoronavirus infection (COVID-19) is an acute respiratory disease caused by the SARS-CoV-2 virus. The SARS-CoV-2 virus can be transmitted through saliva droplets from the mouth or nasal secretions of an infected person during coughing, sneezing, talking, singing, or breathing. Therefore, COVID-19 can be contracted through the air while being close to an infected person, as well as by transferring the virus from contaminated surfaces to the mucous membranes of the eyes, nose, or mouth [38].</zero><zero>\t\tFor most patients, the infection progresses in a mild or moderate form, but severe cases of COVID-19 may require hospitalization and the use of a ventilator. Common symptoms include fever, cough, fatigue, loss of smell and taste. Other symptoms may include sore throat, headache, body aches, diarrhea, skin rash, or discoloration of the fingers or toes, redness or irritation of the eyes [39].</zero><zero>\t\tThere are the symptoms when it is require to immediate medical attention such as difficulty breathing or shortness of breath; speech or motor function impairment, or confusion; chest pain. The incubation period, when symptoms of the disease appear, varies for different strains of COVID-19. Also, each new strain differs in the degree of infectivity, and even those who have already had COVID-19 in the past can get sick. Vaccination in this case helps reduce the likelihood of complications during and after the illness.</zero><zero>\t\tVaccination against COVID-19 is considered a preventive measure that helps reduce the likelihood of infection, as well as the number of complications during and after coronavirus infection.</zero><zero>\t\tProphylactic vaccination against COVID-19 is recommended for all citizens of Kazakhstan aged 18 and older, as well as for foreigners residing in the country for three months or more. Vaccination is also recommended for children aged 12 and older with the consent of parents or legal representatives, as well as for pregnant and lactating women (in these cases, the Comirnaty vaccine is used) [40].</zero><zero>\t\tVaccination against COVID-19 in Kazakhstan is provided free of charge, funded by the state budget, as the disease poses a serious threat and can lead to significant burdens on the healthcare system. Vaccination can be done at the outpatient clinic based on the place of residence or registration [41].</zero><zero>\t\tVaccination against COVID-19 is one of the key measures in combating the pandemic caused by the SARS-CoV-2 virus. Vaccines have been developed and released by various pharmaceutical companies in response to the COVID-19 pandemic caused by the SARS-CoV-2 virus. COVID-19 vaccines typically consist of mRNA molecules, viral vectors, or inactivated viruses that stimulate the immune system to create protective immunity against the SARS-CoV-2 virus.</zero><zero>\t\tmRNA-based vaccines:</zero><one>Pfizer-BioNTech (Comirnaty): it is produced by Pfizer and BioNTech Company.</one><one>Moderna (Spikevax): it is created by Moderna Company.</one><zero>\t\tVaccines based on viral vectors:</zero><one>AstraZeneca (Vaxzevria): it is produced in collaboration with the University of Oxford.</one><one>Johnson & Johnson's Janssen: A single-dose vaccine produced by the Johnson & Johnson division.</one><one>Sputnik V: it is produced in Russia.</one><zero>\t\tInactivated vaccines:</zero><one>Sinovac (CoronaVac): it is produced by the Chinese pharmaceutical company Sinovac Biotech.</one><one>Sinopharm: A vaccine also developed by the Chinese company Sinopharm.</one><zero>\t\tProtein approaches:</zero><one>Novavax (Nuvaxovid): it is produced by Novavax.</one><zero>\t\tOther vaccines:</zero><one>Covaxin: it is produced in India by Bharat Biotech.</one><zero>\t\tVaccines against COVID-19 train the immune system to recognize and combat the virus, which helps prevent the disease or make it less severe if infected [42].</zero><zero>\t\tVaccination schedules, possible side effects, and vaccination recommendations may vary depending on the region and country. The effectiveness, safety, and suitability of vaccines may differ, and the decision to choose a specific vaccine may depend on various factors, including regional recommendations, availability, and individual medical circumstances. It is important to obtain information from current sources and consult medical professionals for specific vaccination advice [43].</zero><zero>\t\tPreventive vaccinations against coronavirus infection (COVID-19) and influenza are carried out based on epidemiological indications for individuals determined by the resolution of the Chief State Sanitary Doctor of the Republic of Kazakhstan depending on the epidemiological situation with COVID-19 and influenza.</zero><zero>\t\tVaccination against COVID-19 is carried out in two stages, unless otherwise specified in the instructions accompanying the vaccine. Revaccination against COVID-19 is performed with an interval of not less than 6 months after the last vaccination against COVID-19.</zero><zero>\t\tCommon contraindications for all COVID-19 vaccines include hypersensitivity to any component of the vaccine or a vaccine containing similar components; severe allergic reactions in the anamnesis; severe post-vaccination complications (anaphylactic shock, severe generalized allergic reactions, convulsive syndrome, temperature of 40°C, etc.) to the administration of the I component of the vaccine.</zero><zero>\t\tTemporary contraindications include acute infectious and non-infectious diseases, exacerbation of chronic diseases - vaccination is carried out 2-4 weeks after recovery or remission. With mild acute respiratory viral infections, acute gastrointestinal infections, vaccination is carried out after normalization of temperature.</zero><zero>\t\tOn the day of vaccination, the patient should be examined by a doctor: a general examination and body temperature measurement are mandatory. If the temperature exceeds 37°C, vaccination is not carried out.</zero><zero>\t\tContraindications of the QazCovid-in vaccine (QazVac) are:</zero><one>1) Chronic diseases in the stage of exacerbation or decompensation;</one><one>2) Immunodeficiency (primary), immunosuppression, malignant neoplasms;</one><one>3) Children and adolescents under 18 years of age;</one><one>4) Pregnancy and lactation.</one><zero>\t\tContraindications for the Vero Cell (Sinopharm) vaccine are:</zero><one>1) Uncontrolled epilepsy or other progressive diseases of the nervous system, as well as a history of Guillain-Barre syndrome;</one><one>2) Pregnancy and lactation;</one><one>3) Age under 18 years.</one><zero>\t\tContraindications of the Komirnati vaccine are:</zero><one>1) Age up to 12 years;</one><one>2) Pregnancy before the 16th week;</one><one>3) With complications of pregnancy — eclampsia, bleeding and other conditions;</one><one>4) Up to 42 days after delivery.</one><zero>\t\tThere may be side effects such as fever, pain, swelling, itching at the injection site; asthenia, body aches, and malaise; increased skin temperature at the injection site; decreased appetite; fatigue.</zero><zero>\t\tPatients receiving immunosuppressive therapy and patients with immunodeficiency are vaccinated against influenza after consulting a physician to decide on the continuation of drugs that suppress the immune system.</zero></container>",
+                "Hepatitis A": "<container><zero>\t\tHepatitis A is a viral liver disease that can range from mild to severe. The virus is transmitted through consumption of contaminated food or water, or by direct contact with an infected person. The incubation period of hepatitis A is typically 14-28 days. The symptoms of hepatitis A can vary from mild to severe: fever, malaise, loss of appetite, diarrhea, nausea, abdominal pain, dark urine, and jaundice (yellowing of the skin and sclera) [44].</zero><zero>\t\tThe vaccine against hepatitis A virus (HAV) is intended to prevent disease caused by the hepatitis A virus. This virus is typically transmitted through contaminated water or food and can cause liver inflammation. Vaccination is an effective method of preventing the disease.</zero><zero>\t\tVaccines typically contain inactivated viral particles or the entire hepatitis A virus. Vaccination against hepatitis A is recommended for individuals in high-risk infection areas or planning travel to these regions. It may also be recommended for specific risk groups [45].</zero><zero>\t\tThe vaccination schedule varies depending on the specific vaccine and the recommendations of health authorities.</zero><zero>\t\tRevaccination may be required based on regional recommendations.</zero><zero>\t\tVaccination can commence in early childhood or be recommended for adults depending on the situation.</zero><zero>\t\tHepatitis A vaccination is considered an effective method of controlling the spread of infection, especially in areas with low levels of sanitation standards.</zero><zero>\t\tContraindications to hepatitis A vaccination include increased sensitivity, allergic reaction to any component of the vaccine, including adjuvants, formaldehyde, and gentamicin sulfate.</zero><zero>\t\tSide effects such as fever, injection site reaction (redness and swelling), injection site pain, and fatigue may occur.</zero></container>",
+                "Flu": "<container><zero>\t\tSeasonal influenza is an acute respiratory infection caused by influenza viruses that circulate worldwide. Characteristic features of seasonal influenza include a sudden onset of high fever, cough (usually dry), headache, muscle and joint pain, severe malaise, sore throat, and runny nose. For most people, the fever subsides and symptoms resolve within a week without any medical intervention. However, influenza can lead to severe illness and death, especially in people at high risk [46].</zero><zero>\t\tThe influenza vaccine is developed and released annually because the influenza virus often changes its structure. Yearly influenza vaccination is an effective way to prevent the disease and its complications. Vaccines are usually based on forecasts regarding the strains of the influenza virus that may be most active in the current season.</zero><zero>\t\tThere are several types of vaccines, including inactivated (killed) vaccines and vaccines based on live attenuated virus. Vaccines contain antigens representing strains of the influenza virus expected in the current season.</zero><zero>\t\tInfluenza vaccination is recommended for a wide range of people, especially for those in risk groups such as children, elderly individuals, pregnant women, and people with chronic illnesses. Vaccination is administered annually before the start of the influenza season, as the virus changes over time [47].</zero><zero>\t\tRevaccination is recommended every year to provide protection against the current strains of the virus. Vaccination is usually conducted before the start of the influenza season, which may vary in different countries and regions. Influenza vaccination helps prevent the disease, reduce the severity of symptoms, and lower the risk of complications such as pneumonia.</zero><zero>\t\tContraindications to influenza vaccination include allergic reactions to chicken protein and vaccine components, allergic reactions to previously administered influenza vaccines, acute febrile conditions or exacerbation of chronic illness (vaccination is carried out after recovery or during remission), mild acute respiratory viral infections, acute gastrointestinal diseases (vaccination is carried out after normalization of temperature), children under 6 months of age, and the first trimester of pregnancy [48].</zero><zero>\t\tSide effects such as local reactions in the form of pain, redness, hardening, and swelling at the injection site, as well as general reactions like malaise, weakness, and subfebrile temperature, may occur.</zero></container>",
+                "Anthrax": "<container><zero>\t\tSiberian ulcer is caused by the gram-positive bacterium Bacillus anthracis, which is an encapsulated facultative anaerobe capable of producing exotoxins. Siberian ulcer, often a deadly disease in animals, is transmitted to humans through contact with infected animal products, their excretions, or environmental objects contaminated with Siberian ulcer spores. Infection in humans typically occurs through the skin. In rare cases, the bacterium can enter through the mucous membranes of the respiratory tract; oropharyngeal, meningeal, and gastrointestinal infections are rare. When the pathogen enters through the mucous membranes of the respiratory tract or the gastrointestinal tract, severe generalized infection, Siberian ulcer sepsis, and often death can occur [49].</zero><zero>\t\tThe vaccine against Bacillus anthracis, the bacterium that causes Siberian ulcer (anthrax), is commonly referred to as the anthrax vaccine. This vaccine was developed to protect people from anthrax infection, especially those working in areas with an increased risk of contact with this bacterium, such as laboratories, farms, and other professional environments where contact with Bacillus anthracis is possible. Usually, inactivated vaccines containing killed or inactivated forms of the bacterium Bacillus anthracis are used. The goal of vaccination is to prevent the development of the disease and protect against severe complications associated with anthrax [50].</zero><zero>\t\tIt includes several doses over a specific period to achieve full immune protection. After completing the primary vaccination course, regular revaccination may be required to maintain immunity. Vaccination against Bacillus anthracis is primarily used in individuals at risk of exposure to the bacterium due to their professional activities.</zero><zero>\t\tIn the event of possible or confirmed exposure to the bacterium, prophylactic vaccination and the use of antibiotics are administered. Vaccination against Bacillus anthracis is considered an important safety measure for preventing infection in people working in professional areas with an increased risk.</zero></container>",
+                "Tularemia": "<container><zero>\t\tTularemia is a rare but serious infectious disease, and vaccination is one of the methods of protection for those who may be at risk. Tularemia is caused by the bacterium Francisella tularensis, and vaccines are mainly developed and used in specific professional or military settings where there is an increased risk of contact with this bacterium [51].</zero><zero>\t\tVaccines can be inactivated, live attenuated, or contain fragments of the bacterium Francisella tularensis. Tularemia vaccines are typically used in professional areas such as laboratories studying the bacterium or in military scenarios where contact with the bacterium is possible. Vaccination schedules and the need for revaccination may vary depending on the specific vaccine and recommendations. The tularemia vaccine is administered once by the subcutaneous or intradermal route. Persistent immunity is developed within 20-30 days. After vaccination against tularemia, immune protection lasts up to 5 years. If, after this period, a person continues to be at risk of infection, revaccination is recommended [52].</zero><zero>\t\tSince tularemia is a rare disease and vaccines against it are developed and used in specialized fields, the decision on tularemia vaccination is best made in conjunction with medical specialists or healthcare authorities.</zero></container>"
+            }
+        },
+        "rules": {
+            "title": "Rules for mandatory preventive vaccinations",
+            "data": "<p>\t\tVaccinations are administered in specialized vaccination rooms within healthcare or educational institutions. The areas where vaccination is carried out are equipped with emergency and shock therapy kits, along with corresponding instructions for use. For immunization, vaccines and other immunobiological preparations registered in accordance with the established legislation of the Republic of Kazakhstan in the field of healthcare are used. Vaccination is carried out parenterally and orally. Self-destructing syringes are used for parenteral administration of vaccines. \n\t\tOn the day of vaccination, a doctor, or in case of his absence, a nurse, conducts a conversation with the individual to be vaccinated or their legal representative. A medical examination is conducted, and body temperature is measured to exclude any medical contraindications to vaccination. If there are no contraindications, the doctor or nurse decides on the vaccination [53]. The healthcare worker provides full and objective information about vaccination, possible reactions, and adverse effects after vaccination, as well as about the consequences of refusing vaccination to the vaccinated individual or their legal representative. Vaccination is carried out only after obtaining informed consent from citizens, parents, or other legal representatives of minors and citizens deemed legally incompetent, in accordance with the established procedures of civil legislation of the Republic of Kazakhstan. Medical examination of an adult scheduled to receive a vaccination is conducted if they complain of feeling unwell or exhibit objective symptoms of illness [53]. \n\t\tBefore administering a vaccine, a healthcare professional checks the integrity of the ampoule (or vial), expiration date, and labeling of the vaccine and other immunobiological products, the compatibility of the vaccine with the solvent, and the accompanying instructions. Vaccinated individuals should be under observation in a medical facility where they were vaccinated for 30 minutes to take measures in case of any complications after vaccination. All vaccinations administered are recorded by medical personnel and should include the following data: date of vaccine administration, vaccine name, lot number, dosage, control number, expiration date, description of vaccination reaction, and country of manufacture. The listed data is entered into the record forms of the following medical documents: \n\t\t1) For children – preventive vaccination card (form 063/y), child development history (form 112/y), the child's medical record (form 026/y), an attachment sheet for a teenager to an outpatient's medical record (form 025-1/y), journal of preventive vaccinations for newborns (form 064-1/y), Journal of Vaccine Movement (Form 064-2/y); \n\t\t2) For adults – the outpatient's medical record (form 025/y), the journal of preventive vaccinations (form 064/y). Vaccination data is entered into the vaccination certificate. The healthcare worker who administered the vaccination is responsible for the accuracy and reliability of the information recorded in the medical records and the vaccination certificate [53]. \n\t\tAll incidents involving reactions and adverse events following vaccination, including the administration of vaccines and other immunobiological products, are recorded in medical documents using record forms. Patients with impaired blood clotting (hemophilia) are administered all vaccines subcutaneously or intradermally, with infants under one year in the anterolateral thigh area, and children over one year and adults in the deltoid muscle area of the shoulder, with precautionary measures observed. After the administration of immunoglobulin or blood products, the administration of measles, mumps, and rubella vaccines is postponed for at least three months. Without an interval between the administration of immunoglobulins or blood products, vaccines containing DTP, DTaP, tuberculosis, pneumococcal infection, and OPV are administered. For immunization against measles, mumps, and rubella, a combined vaccine against measles, mumps, and rubella (MMR) and monovalent vaccines against measles, mumps, and rubella are used. The interval between vaccination and revaccination against measles, mumps, and rubella is at least six months, but not before the child reaches 6 years of age [53]. \n\t\tAfter administering vaccines against measles, mumps, rubella, tuberculosis, and OPV, an interval of at least two weeks is observed before administering immunoglobulin. After administering DTP-containing vaccines, pneumococcal vaccines, DTaP, and immunoglobulin, no interval is observed. Patients with any form of immune deficiency (immunodeficiency) are not vaccinated using live vaccines. When immunizing with OPV vaccine for epidemiological reasons, the interval with MMR is not observed. Individuals residing in the same household as patients with immunodeficiency are vaccinated with OPV, with the vaccinated individual isolated from the patient with immunodeficiency for a period of not less than 30 calendar days from the day of vaccination. Patients with anatomical and functional asplenia are protected from pneumococcal, meningococcal, and Haemophilus influenzae type B infections. Vaccination against the specified infections is carried out no later than 14 days before the scheduled splenectomy. If vaccination is not performed before surgery, vaccination is carried out 2 weeks after the operation, taking into account the stabilization of the patient's condition.</p>"
+        },
+        "groups": {
+            "title": "Population groups subject to preventive vaccinations",
+            "data": "<container><zero>\t\tThe following population groups are subject to mandatory preventive vaccinations:</zero><one>1) Individuals of certain ages according to the established schedule for mandatory preventive vaccinations;</one><one>\n2) Population residing and working in natural foci of infectious diseases (tick-borne encephalitis, Siberian ulcer, tularemia, plague);</one><one>\n3) Individuals belonging to risk groups due to the nature of their professional activities:</one><two>\n- Healthcare workers (hepatitis B, influenza);</two><two>\n- Workers in sewage and treatment facilities (typhoid fever);</two><two>\n- Employees of research organizations, laboratories, including personnel involved in sample collection, vivariums, organizations and institutions conducting research on the presence of rabies agent and working with animals (rabies);</two><two>\n- Individuals performing work on catching and keeping stray animals (rabies);</two><two>\n- Employees of hunting and forestry organizations, gamekeepers, workers in slaughterhouses (sites), taxidermists, dog handlers (rabies);</two><two>\n- Healthcare organization employees involved in conducting parenteral interventions on rabies patients, and pathologists (rabies);</two><one>\n4) Individuals bitten or scratched by any animals (rabies);</one><one>\n5) Individuals who have suffered injuries or wounds with a breach of skin and mucous membrane integrity (tetanus);</one><one>\n6) Individuals belonging to risk groups based on their health status:</one><two>\n- Children under dynamic observation in a medical organization (influenza);</two><two>\n- Those who have received blood transfusions (hepatitis B);</two><one>\n7) Orphans and children left without parental care, studying and/or being raised in educational organizations for orphans and children left without parental care, individuals in medical and social institutions for the elderly, individuals with disabilities (influenza);</one><one>\n8) Individuals at high risk of infection based on epidemiological indications (hepatitis A, influenza, measles, rubella, epidemic parotitis, coronavirus infection) [53].</one></container>"
+        },
+        "vac": {
+            "title": "Vaccination of individuals with missed preventive vaccinations and catch-up vaccination",
+            "link1": {
+                "link": "\t\tCatch-up vaccination against pneumococcal infection is conducted as follows:",
+                "content": "<one>\n1) Previously unvaccinated children aged:</one><two>\n - from 7 to 11 months of age receive two doses one month apart, the third dose is administered in the second year of life at least 2 months after the second dose;</two><two>\n - from 12 to 23 months of age receive two doses two months apart, the third dose is not administered;</two><two>\n - from 2 to 5 years of age receive one dose;</two><two>\n - from 12 to 23 months of age receive two doses two months apart, the third dose is not administered;</two><two>\n - from 2 to 5 years of age receive one dose.</two><one>\n2) Previously immunized children with a single dose:</one><two>\n - from 7 to 11 months of age receive the next two doses at two-month intervals, the third dose is administered until 15 months of life;</two><two>\n - from 12 to 23 months of age, if vaccinated before age 1 year, receive two doses two months apart, if vaccinated over age 1 year, receive 1 dose;</two><two>\n - from 2 to 5 years of age, if the previous dose was administered before the age of 2 years, one dose at two-month intervals; if the previous dose was administered after the age of 2 years, no additional doses are required;</two><one>\n3) Previously immunized children who have had two doses:</one><two>\n - From 12 to 23 months of age, if previous doses are received before age 1 year, a third dose is administered two months apart after the second dose;</two><two>\n - From 12 to 23 months of age, no additional doses are required if prior doses are received over 1 year of age;</two><two>\n - From 2 to 5 years of age, if the previous doses were administered before the age of 2 years, one dose is administered two months apart; if the previous doses were administered after the age of 2 years, no additional doses are required.</two>"
+            },
+            "link2": {
+                "link": "\t\t Persons who did not vaccinated against HBV are vaccinated according to the following scheme:",
+                "content": "<one>\n1) Children under 6 years of age not immunized at birth - 0-2-4 with intervals between vaccinations - two months. If children under 6 years of age are not immunized against HBV at birth, it is allowed to complete the course of vaccination against this infection with HBV monovaccine;</one><one>\n2) Previously unvaccinated children over 6 years of age and adults - 0-1-6 with intervals between the first and second vaccinations - one month, between the second and third - five months;</one><one>\n3) HBV vaccination of persons over 15 years of age is carried out after preliminary marker diagnostics for HBV. Persons with a positive result of HBV testing are not allowed for vaccination.</one>"
+            },
+            "link3": {
+                "link": "\t\t Vaccination against diphtheria, tetanus, and pertussis is carried out using vaccines containing DTP or DTaP.",
+                "content": "<zero>\t\t Previously unvaccinated children:</zero><two>\n1) From 4 to 7 years old, children are vaccinated with combination vaccines containing DTP with diphtheria anatoxin according to the following schedule: 3 vaccinations at a 2-month interval, and the fourth vaccination at 6-12 months;</two><two>\n2) From the age of 7 and older, adults are vaccinated according to the following schedule: two vaccinations of DTP with reduced diphtheria anatoxin content at a 1-month interval, and the third vaccination at 6-12 months.</two><zero>\t\tCombination vaccines containing diphtheria anatoxin are used in children up to 7 years old, vaccines with reduced diphtheria anatoxin content are used in children from 4 years old, and ADS-M is used in children from 7 years old and adults.</zero><zero>\t\t In case of contraindications to the pertussis component, vaccination is carried out using ADS-M for children older than 7 years:</zero><one>\n1) If a reaction occurs after the first vaccination with a DTP-containing vaccine, the second vaccination is administered with ADS-M no earlier than 3 months later;</one><one>\n2) If a reaction occurs after the second vaccination with a DTP-containing vaccine, the course of vaccination against diphtheria and tetanus is considered complete. In both cases, the first revaccination with ADS-M is carried out after 12 months;</one><one>\n3) If a reaction occurs after the third vaccination with a DTP-containing vaccine, the first revaccination with ADS-M is carried out after 12-18 months.</one><zero>\t\t If a child misses the second dose of a DTP-containing vaccine, the vaccination course continues with alternating types of DTP-containing vaccines according to the schedule approved by Resolution No. 612.</zero><zero>\t\t When completing the primary vaccination series with DTP-containing vaccines late, the first revaccination is performed with an interval of no less than one year.</zero><zero>\t\t Combined vaccines containing DTP with an increased content of diphtheria anatoxin are not used in children older than 7 years.</zero>"
+            },
+            "data": "<container><zero>\t\tDuring catch-up vaccination against pneumococcal infection, an interval of no less than 1 month is observed between the first and second doses, and no less than 2 months between the second and third doses.</zero><link1></link1><link2></link2><link3></link3><zero>\t\t Children who did not receive tuberculosis vaccination at birth (1-4 days of life) are vaccinated in healthcare organizations providing outpatient care at the place of residence: up to 2 months of age without Mantoux test, at the age of 2 months and older - after Mantoux test with a negative result. Children who have not been vaccinated against tuberculosis at birth are vaccinated against this infection before the age of 15. The interval between the Mantoux test and vaccination with the BCG vaccine should be at least three days and no more than two weeks. Before performing the Mantoux test, an interval of 2 months is observed from other vaccinations.</zero><zero>\t\tGirls under the age of 15 who have missed the scheduled preventive vaccination against human papillomavirus at the age of 11 are vaccinated according to the schedule in accordance with the instructions for medical use of the vaccine and the resolution of the Chief State Sanitary Doctor of the Republic of Kazakhstan. Vaccination is carried out at vaccination points of educational institutions and healthcare organizations providing outpatient care at the place of residence.</zero><zero>\t\t To determine high-risk groups in the population for vaccine-preventable infections and in the presence of diagnostic preparations, the intensity of immunity to vaccine-preventable infections is studied.</zero><zero>\t\t When identifying non-immune individuals (those with a negative test result and a low titer of antibodies to determine immunity) to measles, rubella, mumps, poliomyelitis, diphtheria, tetanus, and pertussis, they undergo additional single vaccination.</zero></container>"
+        },
+        "contraindications": {
+            "title": "Medical contraindications to preventive vaccinations",
+            "link1": {
+                "link": "I. General permanent contraindications for all types of vaccines:",
+                "content": "<one>\n1) Severe reaction developing within 48 hours after the previous administration of this vaccine (body temperature rising to 40 degrees Celsius and above, prolonged, unusual crying syndrome lasting three or more hours, febrile or afebrile seizures, hypotonic-hyporeactive syndrome);</one><one>\n2) Severe allergic reaction (including anaphylaxis) after administration of the previous dose of the vaccine or to any of the vaccine components;</one><one>\n3) Encephalopathy (coma, impaired consciousness, or prolonged seizures) not attributable to any other proven cause, developing within 7 calendar days after vaccination.</one>"
+            },
+            "link2": {
+                "link": "II. Permanent contraindications for the use of live vaccines:",
+                "content": "<one>\n1) Immunodeficiency disorders, including disease caused by the human immunodeficiency virus regardless of the degree of immunodeficiency;</one><one>\n2) Malignant neoplasms, including malignant blood diseases;</one><one>\n3) Pregnancy.</one>"
+            },
+            "link3": {
+                "link": "III. Temporary contraindications common to all types of vaccines:",
+                "content": "<one>\n1) Acute diseases of the central nervous system (meningitis, encephalitis, meningoencephalitis) – vaccination is postponed for a period of up to one month after full recovery;</one><one>\n2) Acute glomerulonephritis – vaccination is postponed for 6 months after recovery; nephrotic syndrome – vaccination is postponed until the end of corticosteroid treatment;</one><one>\n3) Acute infectious and non-infectious diseases of moderate and severe severity regardless of temperature – vaccination is allowed 2-4 weeks after recovery;</one><one>\n4) The use of steroids in various pathologies, as well as other drugs with immunosuppressive properties. Exceptions are patients with leukemias, conditions after organ and tissue transplantation, aplastic anemia, immune thrombocytopenia, and other blood disorders, for whom the use of certain vaccines (against influenza, hepatitis B, pneumococcus) is indicated after consultation with specialized specialists (hematologist, immunologist, or others);</one><one>\n5) Exacerbation and progression of chronic diseases – vaccination is postponed and carried out after treatment during a period of stable remission;</one><one>\n6) Progressive or unstable neurological disorders, uncontrolled seizures, or progressive encephalopathy – vaccination is postponed until the end of treatment and complete stabilization of the condition [53].</one>"
+            },
+            "link4": {
+                "link": "Regarding the tuberculosis vaccine (BCG)",
+                "content": "<i>Permanent contraindications:</i><two> - Complicated course of the post-vaccination period, developing after the previous administration of the BCG vaccine;</two><two> - Infection with tuberculosis mycobacteria, a history of tuberculosis;</two><i>Temporary contraindications:</i><two> - Prematurity (child's body weight less than 2000 grams or gestational age less than 33 weeks);</two><two> - Generalized infection after BCG vaccination detected in first-degree relatives (to exclude inherited immunodeficiency);</two><two> - Hemolytic disease of the newborn (moderate and severe forms);</two><two> - Intrauterine infection;</two><two> - Neonatal sepsis;</two><two> - Positive or equivocal Mantoux reaction;</two><two> - BCG vaccination is not carried out in children who have not been vaccinated at the scheduled times and who do not have developed post-vaccination signs until a final conclusion is made regarding the presence of immunodeficiency, including HIV infection.</two>"
+            },
+            "link5": {
+                "link": "Permanent contraindications to the live oral polio vaccine (OPV):",
+                "content": "<two> - Development of paralysis or paresis after administration of the previous dose of OPV within 30 days after vaccination;</two><two> - Spinal muscular atrophy;</two><two> - Disease caused by the human immunodeficiency virus regardless of the degree of immunodeficiency.</two><one>\nIn such cases, vaccination may be performed with inactivated polio vaccine (IPV);</one>"
+            },
+            "link6": {
+                "link": "Permanent contraindications to IPV:",
+                "content": "<two> - Immediate allergic reactions to neomycin or streptomycin used in vaccine production;</two>"
+            },
+            "link7": {
+                "link": "For the adsorbed vaccine against pertussis, diphtheria, and tetanus with acellular pertussis component (hereinafter referred to as DTPa) and combined vaccines containing DTPa (hereinafter referred to as DTPa-containing vaccines), there are absolute contraindications:",
+                "content": "<two> - Confirmed systemic reactions to vaccine ingredients (glutaraldehyde, neomycin, streptomycin, polymyxin B) used in vaccine production;</two>"
+            },
+            "link8": {
+                "link": "Permanent contraindication to vaccine containing tetanus anatoxin (DPT-M, AC):",
+                "content": "<two> - Guillain-Barré syndrome that developed within six weeks of a previous tetanus toxin vaccine administration;</two>"
+            },
+            "link9": {
+                "link": "For vaccines containing attenuated live viruses, there are permanent contraindications:",
+                "content": "<two> - Anaphylactic reactions to chicken egg protein (if vaccine viruses are grown in chicken embryos), aminoglycosides, neomycin, and other antibiotics used in vaccine production;</two>"
+            },
+            "link10": {
+                "link": "Permanent contraindications to influenza vaccine derived from chicken embryos:",
+                "content": "<two> - Allergic reactions to chicken egg protein, components of the medium for cultivating strains (proteins, antibiotics, and other substances);</two>"
+            },
+            "link11": {
+                "link": "To the vaccine against viral hepatitis B and other recombinant or complex vaccines containing separate recombinant immunogens:",
+                "content": "<two> - Permanent contraindications include immediate allergic reactions to components of yeast-like fungi, bacteria, or other cells used in vaccine production;</two><two> - Temporary contraindication – prematurity, body weight less than 2000 grams at birth [53].</two>"
+            },
+            "data": "<container><link1></link1><link2></link2><link3></link3><zero>IV. Additional contraindications to specific types of vaccines:</zero><link4></link4><link5></link5><link6></link6><link7></link7><link8></link8><link9></link9><link10></link10><link11></link11></container>"
+        },
+        "time": {
+            "title": "The timing of mandatory preventive vaccinations within the framework of the guaranteed volume of medical care",
+            "tabs": [
+                "National",
+                "Epidemiological"
+            ],
+            "nacLinks": [
+                {
+                    "lvl1": "1-4 days",
+                    "lvl2": [
+                        {
+                            "name": "Tuberculosis",
+                            "href": "/info/deseases/Tuberculosis"
+                        },
+                        {
+                            "name": "Viral hepatitis B",
+                            "href": "/info/deseases/Hepatitis B"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "2 months",
+                    "lvl2": [
+                        {
+                            "name": "Viral hepatitis B",
+                            "href": "/info/deseases/Hepatitis B"
+                        },
+                        {
+                            "name": "Poliomyelitis",
+                            "href": "/info/deseases/Polio"
+                        },
+                        {
+                            "name": "Pertussis",
+                            "href": "/info/deseases/Pertussis"
+                        },
+                        {
+                            "name": "Diphtheria",
+                            "href": "/info/deseases/Diphtheria"
+                        },
+                        {
+                            "name": "Tetanus",
+                            "href": "/info/deseases/Tetanus"
+                        },
+                        {
+                            "name": "Haemophilus influenzae type b",
+                            "href": "/info/deseases/Haemophilus influenzae type b"
+                        },
+                        {
+                            "name": "Pneumococcal infection",
+                            "href": "/info/deseases/Pneumococcal infection"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "3 months",
+                    "lvl2": [
+                        {
+                            "name": "Poliomyelitis",
+                            "href": "/info/deseases/Polio"
+                        },
+                        {
+                            "name": "Pertussis",
+                            "href": "/info/deseases/Pertussis"
+                        },
+                        {
+                            "name": "Diphtheria",
+                            "href": "/info/deseases/Diphtheria"
+                        },
+                        {
+                            "name": "Tetanus",
+                            "href": "/info/deseases/Tetanus"
+                        },
+                        {
+                            "name": "Haemo-philus influenzae type b",
+                            "href": "/info/deseases/Haemophilus influenzae type b"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "4 months",
+                    "lvl2": [
+                        {
+                            "name": "Viral hepatitis B",
+                            "href": "/info/deseases/Hepatitis B"
+                        },
+                        {
+                            "name": "Poliomyelitis",
+                            "href": "/info/deseases/Polio"
+                        },
+                        {
+                            "name": "Pertussis",
+                            "href": "/info/deseases/Pertussis"
+                        },
+                        {
+                            "name": "Diphtheria",
+                            "href": "/info/deseases/Diphtheria"
+                        },
+                        {
+                            "name": "Tetanus",
+                            "href": "/info/deseases/Tetanus"
+                        },
+                        {
+                            "name": "Haemophilus influenzae type b",
+                            "href": "/info/deseases/Haemophilus influenzae type b"
+                        },
+                        {
+                            "name": "Pneumococcal infection",
+                            "href": "/info/deseases/Pneumococcal infection"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "12-15 months",
+                    "lvl2": [
+                        {
+                            "name": "Poliomyelitis",
+                            "href": "/info/deseases/Polio"
+                        },
+                        {
+                            "name": "Pneumococcal infection",
+                            "href": "/info/deseases/Pneumococcal infection"
+                        },
+                        {
+                            "name": "Measles",
+                            "href": "/info/deseases/Measles"
+                        },
+                        {
+                            "name": "Rubella",
+                            "href": "/info/deseases/Rubella"
+                        },
+                        {
+                            "name": "Mumps",
+                            "href": "/info/deseases/Mumps"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "18 months",
+                    "lvl2": [
+                        {
+                            "name": "Poliomyelitis",
+                            "href": "/info/deseases/Polio"
+                        },
+                        {
+                            "name": "Pertussis",
+                            "href": "/info/deseases/Pertussis"
+                        },
+                        {
+                            "name": "Diphtheria",
+                            "href": "/info/deseases/Diphtheria"
+                        },
+                        {
+                            "name": "Tetanus",
+                            "href": "/info/deseases/Tetanus"
+                        },
+                        {
+                            "name": "Haemophilus influenzae type b",
+                            "href": "/info/deseases/Haemophilus influenzae type b"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "2 years old",
+                    "lvl2": [
+                        {
+                            "name": "Viral hepatitis A",
+                            "href": "/info/deseases/Hepatitis A"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "2,5 years old",
+                    "lvl2": [
+                        {
+                            "name": "Viral hepatitis A",
+                            "href": "/info/deseases/Hepatitis A"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "6 years old",
+                    "lvl2": [
+                        {
+                            "name": "Pertussis",
+                            "href": "/info/deseases/Pertussis"
+                        },
+                        {
+                            "name": "Diphtheria",
+                            "href": "/info/deseases/Diphtheria"
+                        },
+                        {
+                            "name": "Tetanus",
+                            "href": "/info/deseases/Tetanus"
+                        },
+                        {
+                            "name": "Measles",
+                            "href": "/info/deseases/Measles"
+                        },
+                        {
+                            "name": "Rubella",
+                            "href": "/info/deseases/Rubella"
+                        },
+                        {
+                            "name": "Mumps",
+                            "href": "/info/deseases/Mumps"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "11 years old (girls)",
+                    "lvl2": [
+                        {
+                            "name": "Disease caused by the human papillomavirus",
+                            "href": "/info/deseases/Human papillomavirus"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "11,5 years old (girls)",
+                    "lvl2": [
+                        {
+                            "name": "Disease caused by the human papillomavirus",
+                            "href": "/info/deseases/Human papillomavirus"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "16 years and every 10 years",
+                    "lvl2": [
+                        {
+                            "name": "Diphtheria",
+                            "href": "/info/deseases/Diphtheria"
+                        },
+                        {
+                            "name": "Tetanus",
+                            "href": "/info/deseases/Tetanus"
+                        }
+                    ]
+                }
+            ],
+            "epidLinks": [
+                {
+                    "lvl1": "Individuals at risk due to the nature of their professional activities, including: healthcare workers",
+                    "lvl2": [
+                        {
+                            "name": "Viral hepatitis B",
+                            "href": "/info/deseases/Hepatitis B"
+                        },
+                        {
+                            "name": "Influenza",
+                            "href": "/info/deseases/Flu"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Individuals who have suffered injuries or wounds with a breach of skin and mucous membrane integrity",
+                    "lvl2": [
+                        {
+                            "name": "Diphtheria",
+                            "href": "/info/deseases/Diphtheria"
+                        },
+                        {
+                            "name": "Tetanus",
+                            "href": "/info/deseases/Tetanus"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Children under dynamic observation in a medical organization",
+                    "lvl2": [
+                        {
+                            "name": "Influenza",
+                            "href": "/info/deseases/Flu"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Individuals who have received a blood transfusion",
+                    "lvl2": [
+                        {
+                            "name": "Viral hepatitis B",
+                            "href": "/info/deseases/Hepatitis B"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Orphans and children left without parental care, studying and/or being raised in educational organizations for orphans and children left without parental care, individuals in medical and social institutions for the elderly, individuals with disabilities",
+                    "lvl2": [
+                        {
+                            "name": "Influenza",
+                            "href": "/info/deseases/Flu"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Based on epidemiological indications",
+                    "lvl2": [
+                        {
+                            "name": "Coronavirus infection",
+                            "href": "/info/deseases/COVID-19"
+                        },
+                        {
+                            "name": "Influenza",
+                            "href": "/info/deseases/Flu"
+                        },
+                        {
+                            "name": "Measles",
+                            "href": "/info/deseases/Measles"
+                        },
+                        {
+                            "name": "Rubella",
+                            "href": "/info/deseases/Rubella"
+                        },
+                        {
+                            "name": "Mumps",
+                            "href": "/info/deseases/Mumps"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Population residing and working in natural foci of infectious diseases",
+                    "lvl2": [
+                        {
+                            "name": "Tularemia",
+                            "href": "/info/deseases/Tularemia"
+                        },
+                        {
+                            "name": "Spring-summer tick-borne encephalitis",
+                            "href": "/info/deseases/Spring-summer tick-borne encephalitis"
+                        },
+                        {
+                            "name": "Anthrax",
+                            "href": "/info/deseases/Anthrax"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Individuals at risk due to the nature of their professional activities, including: workers in sewage and treatment facilities",
+                    "lvl2": [
+                        {
+                            "name": "Typhoid fever",
+                            "href": "/info/deseases/Typhoid"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Employees of research organizations, laboratories, including personnel involved in sample collection, vivariums, organizations and institutions conducting research on the presence of rabies agent and working with animals",
+                    "lvl2": [
+                        {
+                            "name": "Rabies",
+                            "href": "/info/deseases/Rabies"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Individuals performing work on catching and keeping stray animals",
+                    "lvl2": [
+                        {
+                            "name": "Rabies",
+                            "href": "/info/deseases/Rabies"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Employees of hunting and forestry organizations, gamekeepers, workers in slaughterhouses (sites), taxidermists, dog handlers",
+                    "lvl2": [
+                        {
+                            "name": "Rabies",
+                            "href": "/info/deseases/Rabies"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Healthcare organization employees involved in conducting parenteral interventions on rabies patients, and pathologists",
+                    "lvl2": [
+                        {
+                            "name": "Rabies",
+                            "href": "/info/deseases/Rabies"
+                        }
+                    ]
+                },
+                {
+                    "lvl1": "Individuals bitten or scratched by any animals",
+                    "lvl2": [
+                        {
+                            "name": "Rabies",
+                            "href": "/info/deseases/Rabies"
+                        }
+                    ]
+                }
+            ]
+        },
+        "about": {
+            "title": "About",
+            "name": "Vaccination in Kazakhstan",
+            "data": "<container><zero> The<b> “Vaccination in Kazakhstan” </b> app is intended for healthcare professionals and anyone interested in preventive immunization. It provides up-to-date information on the national vaccination schedule, age-specific vaccination recommendations, and educational materials. This resource is useful for medical students, practicing professionals, and a broad audience seeking to improve their awareness of vaccination topics.</zero></container>"
+        },
+        "test": {
+            "title": "MCQ",
+            "data": [
+                {
+                    "question": "1. About the approval of the Sanitary Rules 'Sanitary and Epidemiological Requirements for the Organization and Conduct of Preventive Vaccinations for the Population' from:",
+                    "answers": [
+                        "№150 from September of 21, 2023",
+                        "№152 from October of 15, 2022",
+                        "№510 from August of 02, 2023",
+                        "№23 from November of 11, 2021",
+                        "№ 865 from April of 29, 2023"
+                    ],
+                    "correct_answer": "№150 from September of 21, 2023"
+                },
+                {
+                    "question": "2. By their composition, vaccines can be:",
+                    "answers": [
+                        "monovaccines, associated vaccines",
+                        "chemical, anatoxins",
+                        "killed vaccines",
+                        "mixed",
+                        "associated vaccines, mixed, killed vaccines"
+                    ],
+                    "correct_answer": "monovaccines, associated vaccines"
+                },
+                {
+                    "question": "3. What is immunoprophylaxis:",
+                    "answers": [
+                        "Provides protection of the body from foreign agents",
+                        "Formed during a person's lifetime and is specific",
+                        "Simulation of a natural infectious process with a favorable outcome",
+                        "Protection against infections by improving the overall health of the body",
+                        "Method of individual or mass protection of people from infections"
+                    ],
+                    "correct_answer": "Method of individual or mass protection of people from infections"
+                },
+                {
+                    "question": "4. Vaccine requirements:",
+                    "answers": [
+                        "safety, immunogenicity, immunogenicity, painlessness, stability, areactogenicity, associability, standardization",
+                        "safety, immunogenicity, efficacy, stability, areactogenicity, associatability, standardization",
+                        "safety, immunogenicity, stability, availability, areactogenicity, associatability, standardization",
+                        "safety, immunogenicity, stability, areactogenicity, associability, standardization",
+                        "safety, immunogenicity, stability, areactogenicity, painlessness, accessibility, standardization"
+                    ],
+                    "correct_answer": "safety, immunogenicity, stability, areactogenicity, associability, standardization"
+                },
+                {
+                    "question": "5. Active natural immunity is formed by...",
+                    "answers": [
+                        "Individuals who have had an infectious disease",
+                        "Carrier state of the pathogen",
+                        "Administration of a live vaccine",
+                        "Chemical vaccine administration",
+                        "The entry into the body of small doses of the pathogen during contact with the source of infection"
+                    ],
+                    "correct_answer": "Carrier state of the pathogen"
+                },
+                {
+                    "question": "6. Passive artificial immunity is formed by...",
+                    "answers": [
+                        "heterologous immunoglobulin injection",
+                        "injection of heterologous serum",
+                        "homologous immunoglobulin injection",
+                        "interferon injection",
+                        "recombinant vaccine injection"
+                    ],
+                    "correct_answer": "injection of heterologous serum"
+                },
+                {
+                    "question": "7. From the list provided, select live vaccines:",
+                    "answers": [
+                        "mumps vaccine",
+                        "Typhoid vaccine",
+                        "BCG",
+                        "leptospirosis vaccine",
+                        "polio vaccine"
+                    ],
+                    "correct_answer": "BCG"
+                },
+                {
+                    "question": "8. The cold chain is ...",
+                    "answers": [
+                        "Cooling the preparation before administration to enhance its immunogenic effect",
+                        "Monitoring the temperature regime during the transportation of vaccines from the manufacturer to the consumer",
+                        "Temperature control system for storing vaccines",
+                        "Temperature control system for storing and transporting vaccines from the manufacturing plant to the vaccinated individual",
+                        "Visual inspection system for vaccine integrity from the manufacturer to the vaccinated individual"
+                    ],
+                    "correct_answer": "Monitoring the temperature regime during the transportation of vaccines from the manufacturer to the consumer"
+                },
+                {
+                    "question": "9. Permission to receive preventive vaccinations is granted by:",
+                    "answers": [
+                        "Child neurologist",
+                        "Infectious disease doctor",
+                        "General practitioner/pediatrician",
+                        "Epidemiologist",
+                        "Medical nurse of the procedure room"
+                    ],
+                    "correct_answer": "General practitioner/pediatrician"
+                },
+                {
+                    "question": "10. The BCG vaccine contains:",
+                    "answers": [
+                        "Inactivated culture of tuberculosis mycobacteria",
+                        "Mycobacterium bovine type",
+                        "Vaccine strain of bovine-type tuberculosis mycobacteria",
+                        "Vaccine strain of Corynebacteria",
+                        "Vaccine strain of meningococcal bacteria"
+                    ],
+                    "correct_answer": "Vaccine strain of bovine-type tuberculosis mycobacteria"
+                },
+                {
+                    "question": "11. How to administer the BCG vaccine during immunization:",
+                    "answers": [
+                        "percutaneously",
+                        "intradermally",
+                        "subcutaneously",
+                        "oral",
+                        "intravenously"
+                    ],
+                    "correct_answer": "subcutaneously"
+                },
+                {
+                    "question": "12. Specify which of the listed children can be vaccinated against tuberculosis in the maternity hospital?",
+                    "answers": [
+                        "A healthy child (3800 g) on the 5th day of life",
+                        "A preterm infant (2400 g) on the 7th day of life",
+                        "A preterm infant (1900 g) on the 8th day of life",
+                        "A child (3200 g), 5th day of life, body temperature 37.8°C",
+                        "A child (3200 g), 5th day of life with omphalitis"
+                    ],
+                    "correct_answer": "A healthy child (3800 g) on the 5th day of life"
+                },
+                {
+                    "question": "13. Hepatitis B vaccine:",
+                    "answers": [
+                        "alive",
+                        "inactivated",
+                        "chemical",
+                        "recombinant",
+                        "anatoxin"
+                    ],
+                    "correct_answer": "recombinant"
+                },
+                {
+                    "question": "14. The polio vaccine should be given to the child:",
+                    "answers": [
+                        "3 hours before a meal",
+                        "1 hour before meals",
+                        "during meals",
+                        "after a meal",
+                        "in the morning on an empty stomach"
+                    ],
+                    "correct_answer": "3 hours before a meal"
+                },
+                {
+                    "question": "15. Contraindications to the administration of the DTP vaccine are:",
+                    "answers": [
+                        "History of convulsive syndrome",
+                        "Malignant blood diseases",
+                        "Elevation of body temperature to 37.8°C after the first vaccination",
+                        "Quincke's edema after the previous vaccination"
+                    ],
+                    "correct_answer": "History of convulsive syndrome"
+                },
+                {
+                    "question": "16. Post-vaccination complications associated with the DTP vaccine include:",
+                    "answers": [
+                        "Episodes of shrill screaming",
+                        "Seizures against a background of elevated body temperature",
+                        "Hyperemia and infiltrate at the site of vaccine administration",
+                        "Quincke's edema",
+                        "Elevated body temperature up to 380C"
+                    ],
+                    "correct_answer": "Quincke's edema"
+                },
+                {
+                    "question": "17. The smallpox vaccine contains:",
+                    "answers": [
+                        "inactivated measles virus",
+                        "live rubella virus",
+                        "live measles virus vaccine strain",
+                        "inactivated vaccine strain of the measles virus",
+                        "inactivated vaccine strain of the rubella virus"
+                    ],
+                    "correct_answer": "live measles virus vaccine strain"
+                },
+                {
+                    "question": "18. In which of the following periods are children vaccinated with the DTP vaccine?",
+                    "answers": [
+                        "up to 4 days old",
+                        "at 2, 3, 4 months without revaccination",
+                        "at 2, 3, 4 months of age with revaccination at 18 months of age",
+                        "up to the 4th day of life with revaccination at 6-7 years of age",
+                        "up to the 4th day of life with revaccination at 2, 3, 4 months of age"
+                    ],
+                    "correct_answer": "at 2, 3, 4 months of age with revaccination at 18 months of age"
+                },
+                {
+                    "question": "19. Planned vaccination against rubella is recommended for:",
+                    "answers": [
+                        "children under 6 months of age",
+                        "children from 6 months to 12 months",
+                        "children aged 12-15 months, revaccination at 18 months of age",
+                        "girls aged 13 who have not had rubella and have not been vaccinated against it",
+                        "boys aged 13 who have not had rubella and have not been vaccinated against it"
+                    ],
+                    "correct_answer": "children aged 12-15 months, revaccination at 18 months of age"
+                },
+                {
+                    "question": "20. The mandatory nature of scheduled vaccinations for children against infectious diseases in the Republic of Kazakhstan is determined by:",
+                    "answers": [
+                        "WHO recommendations",
+                        "by indication of Gossanepidnadzor centers",
+                        "by order of akim of the given territory",
+                        "by order of the medical and preventive institution",
+                        "By the Law on Sanitary and Epidemiological Well-being of the Population of the Republic of Kazakhstan, and the vaccination schedule approved by the Ministry of Health of the Republic of Kazakhstan"
+                    ],
+                    "correct_answer": "By the Law on Sanitary and Epidemiological Well-being of the Population of the Republic of Kazakhstan, and the vaccination schedule approved by the Ministry of Health of the Republic of Kazakhstan"
+                }
+            ],
+            "checkButton": "Check",
+            "alert": {
+                "error": "You have not answered all the questions.",
+                "res": "Correct answers : {{right}} \nWrong answers : {{wrong}}"
+            }
+        }
+    },
+    "tabs": {
+        "home": "Home",
+        "info": "Information"
+    },
+    "card": {
+        "link": "Go to"
+    },
+    "settings": {
+        "title": "Settings",
+        "lang": "Language"
+    }
+}
